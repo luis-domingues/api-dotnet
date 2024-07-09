@@ -1,0 +1,107 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET, .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings.json
+appsettings.Development.json
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*~
+
+# Azure Pipelines
+.azure-pipelines.yml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Npm
+node_modules/
+
+# Webpack
+dist/
+
+# Build directories
+build/
+dist/
+tmp/
+temp/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local History for JetBrains IDEs
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Tooling
+.vscode/
+.terraform/
+.local/
+
+# Log files
+*.log
+
+# Include the following lines if you are using SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Include the following lines if you are using Entity Framework migrations
+Migrations/
+
+# Include the following lines if you are using database files for local development
+*.mdf
+*.ldf
+
+# API testing files
+*.http
+
+# Additional directories
+ApiCrud.http
