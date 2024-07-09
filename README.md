@@ -17,7 +17,7 @@ This is a simple API project using **Dotnet with CSharp, Entity Framework Core, 
 
 1. Clone the repository:
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/luis-domingues/api-dotnet
 cd ApiCrud
 ```
 
